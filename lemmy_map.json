@@ -17,6 +17,20 @@
 		{
 			"www.reddit.com": [
 				{
+					"name": "RedditAlternatives",
+					"banned": false
+				}
+			],
+			"dev.lemmy.ml": [
+				{
+					"name": "lemmy",
+					"banned": false
+				}
+			]
+		},
+		{
+			"www.reddit.com": [
+				{
 					"name": "linux",
 					"banned": false
 				}
