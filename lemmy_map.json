@@ -3,6 +3,20 @@
 		{
 			"www.reddit.com": [
 				{
+					"name": "cryptocurrency",
+					"banned": false
+				}
+			],
+			"dev.lemmy.ml": [
+				{
+					"name": "cryptocurrencies",
+					"banned": false
+				}
+			]
+		},
+		{
+			"www.reddit.com": [
+				{
 					"name": "linux",
 					"banned": false
 				}
