@@ -17,6 +17,20 @@
 		{
 			"www.reddit.com": [
 				{
+					"name": "deepintoyoutube",
+					"banned": false
+				}
+			],
+			"dev.lemmy.ml": [
+				{
+					"name": "therabbithole",
+					"banned": false
+				}
+			]
+		},
+		{
+			"www.reddit.com": [
+				{
 					"name": "RedditAlternatives",
 					"banned": false
 				}
