@@ -1,0 +1,92 @@
+{"communities": 
+	[
+		{
+			"www.reddit.com": [
+				{
+					"name": "linux",
+					"banned": false
+				}
+			],
+			"dev.lemmy.ml": [
+				{
+					"name": "linux",
+					"banned": false
+				}
+			]
+		},
+		{
+			"www.reddit.com": [
+				{
+					"name": "programming",
+					"banned": false
+				}
+			],
+			"dev.lemmy.ml": [
+				{
+					"name": "programming",
+					"banned": false
+				}
+			]
+		},
+		{
+			"www.reddit.com": [
+				{
+					"name": "selfhosted",
+					"banned": false
+				}
+			],
+			"dev.lemmy.ml": [
+				{
+					"name": "selfhosted",
+					"banned": false
+				},
+				{
+					"name": "floss_replacements",
+					"banned": false
+				}
+			]
+		},
+		{
+			"www.reddit.com": [
+				{
+					"name": "darknetmarkets",
+					"banned": true
+				}
+			],
+			"dev.lemmy.ml": [
+				{
+					"name": "darknet",
+					"banned": false
+				}
+			]
+		},
+		{
+			"www.reddit.com": [
+				{
+					"name": "chapotraphouse",
+					"banned": true
+				}
+			],
+			"dev.lemmy.ml": [
+				{
+					"name": "chapotraphouse",
+					"banned": false
+				}
+			]
+		},
+		{
+			"www.reddit.com": [
+				{
+					"name": "the_donald",
+					"banned": true
+				}
+			],
+			"dev.lemmy.ml": [
+				{
+					"name": "the_donald",
+					"banned": true
+				}
+			]
+		}
+	]
+}
